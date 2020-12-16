@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\DevADONET",
-    "\\DevADONET\\Documents"
+    "\\DevADONET\\Documents",
+    "\\DevADONET\\Models",
+    "\\DevADONET\\obj",
+    "\\DevADONET\\Views",
+    "\\packages"
   ],
-  "SelectedNode": "\\DevADONET\\FrmMemoWrite.aspx",
+  "SelectedNode": "\\DevADONET\\DevADONET.csproj",
   "PreviewInSolutionExplorer": false
 }
